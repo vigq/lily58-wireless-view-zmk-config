@@ -44,7 +44,7 @@
             bindings = <
 &kp ESCAPE  &kp EXCLAMATION  &kp QUESTION  &kp HASH        &kp DOLLAR     &kp PERCENT                                     &kp CARET       &kp AMPERSAND  &kp ASTERISK   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &bt BT_CLR_ALL
 &none       &kp F1           &kp F2        &kp F3          &kp F4         &kp F5                                          &kp F6          &kp F7         &kp F8         &kp F9                &kp F10                &kp BACKSLASH
-&none       &kp F11          &kp F12       &kp HASH        &kp AT_SIGN    &kp PRCNT                                       &bt BT_SEL 1    &bt BT_SEL 2   &bt BT_SEL 3   &kp DOUBLE_QUOTES     &kp SEMICOLON          &kp TILDE
+&none       &kp F11          &kp F12       &kp HASH        &kp AT_SIGN    &kp PRCNT                                       &none           &none          &none          &kp DOUBLE_QUOTES     &kp SEMICOLON          &kp TILDE
 &none       &kp INSERT       &kp HOME      &kp PAGE_UP     &kp PAGE_DOWN  &kp DELETE   &kp LEFT_BRACE    &kp RIGHT_BRACE  &kp UNDERSCORE  &kp MINUS      &kp LESS_THAN  &kp GREATER_THAN      &kp SLASH              &kp PIPE
                                            &kp KP_NUMLOCK  &none          &none        &kp SPACE         &kp SPACE        &kp PLUS        &kp EQUAL      &kp GRAVE
             >;
